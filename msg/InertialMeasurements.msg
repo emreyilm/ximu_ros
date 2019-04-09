@@ -1,0 +1,9 @@
+float32 p
+float32 q
+float32 r
+float32 a_x
+float32 a_y
+float32 a_z
+float32 mag_x
+float32 mag_y
+float32 mag_z
